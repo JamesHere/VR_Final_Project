@@ -9,8 +9,11 @@ Platform: Windows Mixed Reality
 
 ## Required:
 Microsoft.MixedReality.Toolkit.Unity.Foundation.2.2.0.unitypackage
+
 Visual Studio 2019
+
 Unity 2018.4.x, 2019.1.x or 2019.2.x
+
 Windows SDK 18362+.
 
 Any older or newer version may break the game.
@@ -30,8 +33,10 @@ This final project is the improved version of the midterm project where the play
 
 ## Assets
 MOBA Hero Creep (trial version, so not complete animation) https://www.youtube.com/watch?v=zavOnZ7VNUI
+
 Epic Toon Fx 1.31 (also trial version) https://assetstore.unity.com/packages/vfx/particles/epic-toon-fx-57772
-Custom Made with Blender
+
+Custom Made
 
 ## Note
 The original plan of the final project is to make a dungeon adventure game and use steamVR and openVR as the main toolkit. But openVR doesn't have good support on WMR's motion controller and have some mapping problems. I then used the WMR toolkit but the recent update also break up something. So I moved the new features to the original survival game for safety.
