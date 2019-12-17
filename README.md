@@ -44,3 +44,4 @@ The original plan of the final project is to make a dungeon adventure game and u
 
 ## Video
 https://youtu.be/hKaoQXNIkAs
+The game runs smooth but screen recorder will slow it down.
